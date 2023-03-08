@@ -1,4 +1,5 @@
 ### Hi there 👋
+![troll despair.gif](https://user-images.githubusercontent.com/126873119/223747757-8d06208b-9f19-43b9-af13-577fd03ef9c4.gif)
 
 <!--
 **MaruDesuuu/MaruDesuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
