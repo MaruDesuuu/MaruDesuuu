@@ -1,5 +1,6 @@
 ## Hello There !!!
 ### My Name is Mario Stevanus
+{: style="text-align: center"}
 
 ![bocchi-the-rock-anime](https://user-images.githubusercontent.com/126873119/223751326-3a36144c-8f3a-4c0a-a059-8d8fb78c0d56.gif)
 
